@@ -3,6 +3,7 @@ body {
   /*background:#f4f4f4;*/
   /*background: #c96144;*/
   background-image: url("../img/back.jpg");
+  /*background-repeat: no-repeat;*/
   font-size:15px;
 }
 
