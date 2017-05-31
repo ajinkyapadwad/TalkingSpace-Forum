@@ -1,11 +1,14 @@
 body {
   padding-top: 60px;
-  background:#f4f4f4;
+  /*background:#f4f4f4;*/
+  /*background: #c96144;*/
+  background-image: url("../img/back.jpg");
   font-size:15px;
 }
 
 a{
 	color:#5c5b69;
+	/*color: #c96144;*/
 }
 
 ul{
@@ -25,13 +28,14 @@ h3{
 /* Navbar Customization */
 .navbar{
 	height:40px !important;
-	background:#5c5b69;
+	/*background:#5c5b69;*/
+	background : #000000;
 	border:0;
 	margin-bottom:30px;
 }
 
 .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand{
-	color:#fff !important;
+	color:#ffffff!important;
 }
 
 .navbar a:hover,.navbar li.active a{
